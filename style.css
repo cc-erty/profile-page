@@ -1,0 +1,31 @@
+body {
+				background-color: cornflowerblue;
+				color: white;
+			}
+			h1 {
+				color: red;
+			}
+			
+			.highlight {
+				background-color: yellow;
+				color: black;
+			}
+			span {
+				background-color: white !important;
+				color: blue;
+			}
+			.underline {
+				text-decoration: underline;
+			}
+			.highlight.underline {
+				font-size: 2em;
+			}
+			
+			#small-img {
+				width: 50px;
+			}
+			
+			div h1 {
+				background-image: url(http://www.catgifpage.com/gifs/318.gif);
+				background-repeat: no-repeat;
+			}
